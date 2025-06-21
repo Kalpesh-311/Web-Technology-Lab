@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/pet-care-website-template",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\PetCareWebsiteTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kalpesh-311",
+            "email": "kalpeshspatil311@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^2.1"
+    }
+}
